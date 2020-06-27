@@ -1,14 +1,14 @@
 <h1 align="center">Clone Discord</h1>
 
-<p align="justify">Este projeto consiste em um clone do famoso chat de voz discord. Foi baseado no tutorial do youtube da [Rocketseat](https://www.youtube.com/watch?v=x4FdZd2-_uU&t=7286s) visando melhorar meu entendimento de criação de interfaces com React e CSS. </p>
+<p align="justify">Este projeto consiste em um clone do famoso chat de voz discord. Foi baseado no tutorial do youtube da <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU&t=7286s">Rocketseat</a> visando melhorar meu entendimento de criação de interfaces com React e CSS. </p>
 
 
 ## Tecnologias utilizadas :books:
 
-[React](https://pt-br.reactjs.org/)
-[Typescript](https://www.typescriptlang.org/)
-[styled-components](https://styled-components.com/)
-[styled-icons](https://styled-icons.js.org/)
+- [React](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [styled-components](https://styled-components.com/)
+- [styled-icons](https://styled-icons.js.org/)
 
 ## Deploy da Aplicação com Netlify: :dash:
 
